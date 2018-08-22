@@ -14,7 +14,7 @@ The Emotion Demo showcases the Kairos Emotion API by giving the user three metho
 [Documentation](/php-demo/emotion/README.md)
 
 ### Face Race
-The Face Race Demo showcases the Kairos Face Recognition API by allowing the user to upload a photo and allowing the systme to detect the ethic breakdown of the largest face in the image.
+The Face Race Demo showcases the Kairos Face Recognition API by allowing the user to upload a photo and allowing the system to detect the ethic breakdown of the largest face in the image.
 [Documentation](/php-demo/facerace/README.md)
 
 ### Recognize
